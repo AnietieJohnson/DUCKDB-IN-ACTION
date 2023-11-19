@@ -1,5 +1,5 @@
 # <p align="center" > DUCKDB-IN-ACTION
-![](https://github.com/AnietieJohnson/DUCKDB-IN-ACTION/blob/main/Screenshot%20(631).png)
+ <p align="center" > ![](https://github.com/AnietieJohnson/DUCKDB-IN-ACTION/blob/main/Screenshot%20(631).png)
 ## INTRODUCTION
 The next phase of our 30-day challenge with  duckdb  will immerse us in advanced SQL techniques using the Titanic dataset.I Just completed an insightful exploration of "DuckDB in Action," a comprehensive guide unlocking the potential of DuckDB – the embedded analytics database!
 "DuckDB in Action" is a comprehensive guide that walks readers through the powerful capabilities of DuckDB, an embedded analytics database designed for efficient data processing and querying. The book is divided into three parts, each offering valuable insights and practical examples.
